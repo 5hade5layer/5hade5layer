@@ -1,5 +1,5 @@
 ### Hi there 👋
-Iam Bharath an AI & Robitics enthusiast
+I am Bharath an AI Research dev at Rapid Innovation Labs TCS
 <!--
 **5hade5layer/5hade5layer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
